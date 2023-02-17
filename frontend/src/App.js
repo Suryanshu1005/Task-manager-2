@@ -25,7 +25,7 @@ function App() {
           <div className="top">
           <input 
             type= "text" 
-            placeholder="Add Your First Task"
+            placeholder="Add your task"
             value={text}
             onChange = {(e) =>setText(e.target.value)}
             />
