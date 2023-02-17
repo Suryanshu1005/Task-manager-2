@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = "https://task-manager-u6ah.onrender.com"
+const baseUrl = "https://task-manager-2.onrender.com"
 
 const getAllToDo = (setToDo) => {
     axios
